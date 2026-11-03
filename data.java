@@ -71,7 +71,7 @@ public class data{
         System.out.println("\tTotal Sallary : "+Salary+" Euro/-");
         System.out.println("\n\tTotal Cost    : "+cost+" Euro/-");
         System.out.println("---------------------------------------------------");
-        System.out.println("\tSalary Left   : "+(Salary - cost)+".00 Euro/-\n\n\n\n\n\t\tThis Program Was Developed By \n\t\t\t  Finix.IT");
+        System.out.println("\tSalary Left   : "+(Salary - cost)+".00 Euro/-\n\n\n\n\n\t\tThis Program Was Developed By \n\t\t\t  https://github.com/afridi1183");
         System.out.println("---------------------------------------------------");
     };
 };
